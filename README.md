@@ -7,3 +7,11 @@ This code is a server development that belongs to the development of the "LLM-ba
 본 코드는 AI EDR 시스템 개발의 속하는 "분석 서버"입니다.
 
 Python으로 구현되며, RestAPI는 "FAST API" 로 개발되었습니다.
+
+</br>
+
+# 어떻게 사용하는가? 
+
+1. Analysis_Server.py (RestAPI동작코드)
+2. codes/AGENT_INSTANCE/Agent_based_instance.py (에이전트기반 관리 인스턴스)
+3. codes/SCIP_PACKAGES/Script_Packages.py (스크립트 관리 인스턴스)
