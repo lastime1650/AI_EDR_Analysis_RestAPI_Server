@@ -8,6 +8,8 @@ This code is a server development that belongs to the development of the "LLM-ba
 
 Python으로 구현되며, RestAPI는 "FAST API" 로 개발되었습니다.
 
+이 분석 서버는 "사용자 정의 형 분석스크립트"형태로 사용자가 작성한 스크립트를 실행가능한 형태(module)로 변환하여 관리하는 서버입니다.
+
 </br>
 
 # 어떻게 사용하는가? 
@@ -23,9 +25,20 @@ Python으로 구현되며, RestAPI는 "FAST API" 로 개발되었습니다.
 
 # 이게 무슨 코드인가? 
 
+## 제목
 ![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG)
+
+## 제목
 ![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.PNG)
+
+## 제목
 ![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C3.PNG)
+
+## 제목
 ![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.PNG)
+
+## 제목
 ![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.PNG)
+
+## 제목
 ![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.PNG)
