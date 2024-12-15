@@ -24,3 +24,8 @@ Python으로 구현되며, RestAPI는 "FAST API" 로 개발되었습니다.
 # 이게 무슨 코드인가? 
 
 ![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG)
+![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.PNG)
+![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C3.PNG)
+![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.PNG)
+![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.PNG)
+![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.PNG)
