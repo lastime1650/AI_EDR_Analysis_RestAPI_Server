@@ -31,7 +31,7 @@ Python으로 구현되며, RestAPI는 "FAST API" 로 개발되었습니다.
 
 ## 왜 이 서버를 개발하게 되었는가? 
 ![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.PNG)
-분석 서버를 유일하게 많이 호출하는 "코어 서버"는 "이벤트 수집", "LLM 평가" 를 진행합니다. 하지만, 이벤트를 수집한 것들을 "바로 LLM에게 평가요청"하는 것은 환각현상에 의해 객관적 정보가 떨어져 응답을 생성할 위험이 있습니다. 그리하여 이 분석 서버를 따로 만들어 "분석 정보(객관적 정보)"를 얻어야 하죠.
+분석 서버를 유일하게 많이 호출하는 "코어 서버"는 "이벤트 수집", "LLM 평가" 를 진행합니다. 하지만, 이벤트를 수집한 것들을 "바로 LLM에게 평가요청"하는 것은 환각현상에 의해 객관적 정보가 떨어져 응답을 생성할 위험이 있습니다. 그리하여 이 분석 서버를 따로 만들어 "분석 정보(객관적 정보)"를 얻고, 이를 수집된 데이터와 포함하여 LLM에게 평가요청해야 정확도가 올라갈 수 있습니다.
 
 ## "분석 서버" 도입시 어떤 흐름인가?
 ![initial](https://github.com/lastime1650/AI_EDR_Analysis_RestAPI_Server/blob/main/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C3.PNG)
